@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a83b63ad-a5a2-4131-bdd7-49112d50bce2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/controller/base_controller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller/history_controller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller/user_controller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/utils.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middleware/auth.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/server.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/history_service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/login_service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/user_service.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiServer/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiServer/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiServer/service/subscription.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deploy.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker-compose-local.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker-compose.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../er.dio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpc-code-gen/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpc-code-gen/code-gen-go.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../protobuf/subscription.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rdb/mysql/1_table.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rdb/mysql/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rdb/mysql/ddl.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rdb/mysql/my.cnf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../run-local.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tools/grafana/dashboards.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tools/grafana/dashboards/go-server.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tools/grafana/datasource.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tools/prometheus/prometheus.yml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.14.2_1/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1n8tYx4XXn2Pj8ZxgBjUd2JIkrf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="115" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610785689270">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1610785689270" />
+    <state x="551" y="311" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610868399979">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="413" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1610784404796" />
+    <state x="551" y="311" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1610868399979" />
+    <state x="561" y="246" width="798" height="588" key="find.popup" timestamp="1611148263780">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="421" y="205" width="598" height="490" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1610785272031" />
+    <state x="561" y="246" width="798" height="588" key="find.popup/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1611148263780" />
+  </component>
+</project>
